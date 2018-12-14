@@ -33,3 +33,37 @@ http://rus-linux.net/MyLDP/algol/LISP/lisp01.html
 
 - Common Lisp Cookbook (поваренная книга)
 http://lisper.ru/wiki/Cookbook
+
+- Common Lisp Virtual Study Group
+
+https://www.youtube.com/watch?v=M4dreHyZjWs
+
+- OmskLUG TV — CODING — Common Lisp game development — part 1
+
+https://www.youtube.com/watch?v=hKwhR_rn06Y&t=1s
+
+- Лекция №3. Язык функционального программирования Common Lisp
+
+https://www.youtube.com/watch?v=AVSo4B8DReo
+
+- GNU Emacs configuration for programming
+
+https://www.youtube.com/watch?v=I28jFkpN5Zk&list=PLdKXxqwRv6_wFRYyQ9iOmCAdMo_Hhx0jz
+
+
+ACL Level 1 Session 1
+
+https://www.youtube.com/watch?v=7K1jf4CzK2A&t=456s
+
+2011.06.28 Андрей Соколов - Мир Lisp'а
+https://www.youtube.com/watch?v=CFyLnXq_CM8
+
+An Brief Introduction to LISP - Pt 1, Syntax
+
+This multi-part series introduces you to Common LISP, by working toward the goal of building a simple web server in LISP
+
+
+https://www.youtube.com/watch?v=M-BFgErib4k
+
+
+
