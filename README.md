@@ -22,6 +22,14 @@ https://www.youtube.com/watch?v=NdIXQK07nvY
 
 https://www.youtube.com/watch?v=m0TsdytmGhc&list=PL2VAYZE_4wRJi_vgpjsH75kMhN4KsuzR_
 
+-Основы программирования на языке Лисп
+
+http://al.cs.msu.su/system/files/PosobieLisp.pdf
+
+http://ermak.cs.nstu.ru/neurotech/html/metodmat/fp2015/Lecture2-3.pdf
+
+http://elibrary.sgu.ru/uch_lit/801.pdf
+
 
 - CL Tutorials
 https://www.youtube.com/watch?v=QabN5OJ9OuU&list=PLE9630387DC2A8AC1
